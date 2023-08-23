@@ -1,1 +1,51 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nicholas Bodily - Personal Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    .contact {
+      text-align: center;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Nicholas Bodily</h1>
+    <p>Student | Wealth Management Intern</p>
+  </div>
+  <div class="content">
+    <h2>About Me</h2>
+    <p>
+      I am a student and wealth management intern currently pursuing my CFP certification. With a strong dedication to helping others achieve financial success, I bring experience in handling financial regulations in the credit union world. My skills include problem-solving, effective communication, and unwavering dependability.
+    </p>
+    <h2>Contact Information</h2>
+    <p>
+      Phone: 801-634-5625<br>
+      Email: <a href="mailto:nicholas.bodily@gmail.com">nicholas.bodily@gmail.com</a>
+    </p>
+  </div>
+  <div class="contact">
+    <p>Connect with me on social media:</p>
+    <!-- Add your social media links here -->
+  </div>
+</body>
+</html>
